@@ -1,0 +1,12 @@
+.table
+{
+    background-color:aquamarine;
+     text-shadow: 20;
+     font-style:italic;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    background-color: azure;
+   color: black;
+}
